@@ -168,3 +168,10 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+# Github link
+
+https://github.com/Mosaleh-Egy/Week-10-SVG-Logo-Maker
+# Live Video link
+https://drive.google.com/file/d/1RWZ0WIgvvcLlaN0JM2V2W8cf3VYUZRo4/view?usp=drive_link
